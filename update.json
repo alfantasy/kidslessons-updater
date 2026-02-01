@@ -1,5 +1,5 @@
 {
   "version": "0.1.1",
-  "url": "https://github.com/alfantasy/kidslessons-updater/releases/download/main/app-release.apk",
-  "notes": "Внедрение автоапдейтера"
+  "url": "https://github.com/alfantasy/kidslessons-updater/releases/download/main/apk-release.apk",
+  "notes": "Внедрение AutoUpdater. Функции, имеющие методы, которые неиспользуются - удалены. Пересобран MainActivity.kt"
 }
