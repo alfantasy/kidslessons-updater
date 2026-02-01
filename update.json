@@ -1,5 +1,9 @@
 {
   "version": "0.1.1",
   "url": "https://github.com/alfantasy/kidslessons-updater/releases/download/v0.1.1/apk-release.apk",
-  "notes": "Внедрение AutoUpdater. Функции, имеющие методы, которые неиспользуются - удалены. Пересобран MainActivity.kt. Убраны нарушения кодовой структуры."
+  "notes": "Внедрение AutoUpdater. Убраны нарушения кодовой структуры.",
+  "changelog": {
+    "0.1.0": "Первоначальный релиз",
+    "0.1.1": "Внедрение AutoUpdater. Пересобран MainActivity.kt. Убраны нарушения кодовой структуры."
+  }
 }
