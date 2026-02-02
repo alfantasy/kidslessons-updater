@@ -1,11 +1,12 @@
 {
-  "version": "0.1.1",
-  "url": "https://github.com/alfantasy/kidslessons-updater/releases/download/v0.1.1/apk-release0.1.1.apk",
-  "notes": "Внедрение AutoUpdater. Пересобран MainActivity.kt. Исправлены политики безопасности приложения. Внедрен плагин installerApks. Исправлен модуль UpdateModal",
+  "version": "0.1.2",
+  "url": "https://github.com/alfantasy/kidslessons-updater/releases/download/v0.1.2/apk-release.apk",
+  "notes": "Исправлены проблемы с выполнением квестов. Теперь их можно отправлять на доработку.",
   "pub_date": "2026-02-02T12:00:00Z",
   "changelog": {
     "0.1.0": "Первоначальный релиз",
-    "0.1.1": "Внедрение AutoUpdater. Пересобран MainActivity.kt. Исправлены политики безопасности приложения. Внедрен плагин installerApks. Исправлен модуль UpdateModal"
+    "0.1.1": "Внедрение AutoUpdater. Пересобран MainActivity.kt. Исправлены политики безопасности приложения. Внедрен плагин installerApks. Исправлен модуль UpdateModal",
+    "0.1.2": "Исправлены проблемы с выполнением квестов. Теперь их можно отправлять на доработку."
   },
   "platforms": {
     "windows-x86_64": {
@@ -13,7 +14,7 @@
       "url": ""
     },
     "android": {
-      "url": "https://github.com/alfantasy/kidslessons-updater/releases/download/v0.1.1/apk-release0.1.1.apk"
+      "url": "https://github.com/alfantasy/kidslessons-updater/releases/download/v0.1.2/apk-release.apk"
     }
   }
 }
